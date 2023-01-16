@@ -229,7 +229,7 @@ h2{
         position: absolute;
         z-index: 9999;
         width: 5rem;
-        background-image: url(./assets/images/icon-menu.svg);
+        background-image: url(./news-homepage-main/assets/images/icon-menu.svg);
         background-repeat: no-repeat;
         background-color: transparent;
         aspect-ratio: 1;
@@ -240,7 +240,7 @@ h2{
     .mobile-nav-toggle[aria-expanded="true"]{
         position: absolute;
         z-index: 10000;
-        background-image: url(./assets/images/icon-menu-close.svg);
+        background-image: url(./news-homepage-main/assets/images/icon-menu-close.svg);
     }
 
     .nav_list{
